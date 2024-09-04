@@ -15,7 +15,12 @@ svg {
     height: 30px;
     margin-bottom: -7px;
     margin-right: 8px;
+    transition: 0.2s;
+}
+
+svg:hover {
     cursor: pointer;
+    height: 32px;
 }
 
 li {
